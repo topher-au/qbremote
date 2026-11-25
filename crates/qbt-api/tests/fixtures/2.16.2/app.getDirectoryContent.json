@@ -1,0 +1,20 @@
+[
+  "/tmp",
+  "/root",
+  "/media",
+  "/srv",
+  "/proc",
+  "/dev",
+  "/etc",
+  "/usr",
+  "/sys",
+  "/sbin",
+  "/bin",
+  "/mnt",
+  "/var",
+  "/home",
+  "/lib",
+  "/run",
+  "/opt",
+  "/config"
+]

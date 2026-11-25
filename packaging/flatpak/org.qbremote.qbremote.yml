@@ -1,0 +1,35 @@
+# Flatpak manifest. Qt comes from the KDE runtime as shared libraries (LGPL-friendly).
+# Build with packaging/flatpak/build.sh, which vendors the crates for the offline sandbox.
+app-id: org.qbremote.qbremote
+runtime: org.kde.Platform
+runtime-version: "6.10"
+sdk: org.kde.Sdk
+sdk-extensions:
+  - org.freedesktop.Sdk.Extension.rust-stable
+command: qbremote
+finish-args:
+  - --share=network          # talks to the user's qBittorrent server
+  - --share=ipc
+  - --socket=wayland
+  - --socket=fallback-x11
+  - --device=dri
+  - --talk-name=org.freedesktop.secrets   # keyring for passwords / API keys
+  - --filesystem=xdg-download:ro          # reading .torrent files the user picks
+build-options:
+  append-path: /usr/lib/sdk/rust-stable/bin
+  env:
+    CARGO_HOME: /run/build/qbremote/cargo
+    QMAKE: /usr/bin/qmake6
+modules:
+  - name: qbremote
+    buildsystem: simple
+    build-commands:
+      # Release configuration: no test hooks, so only LGPL Qt modules are linked.
+      - cargo build --release --offline -p qbremote --no-default-features
+      - install -Dm755 target/release/qbremote /app/bin/qbremote
+      - install -Dm644 packaging/org.qbremote.qbremote.desktop /app/share/applications/org.qbremote.qbremote.desktop
+      - install -Dm644 packaging/org.qbremote.qbremote.metainfo.xml /app/share/metainfo/org.qbremote.qbremote.metainfo.xml
+      - install -Dm644 packaging/org.qbremote.qbremote.svg /app/share/icons/hicolor/scalable/apps/org.qbremote.qbremote.svg
+    sources:
+      - type: dir
+        path: ../../build/flatpak-src

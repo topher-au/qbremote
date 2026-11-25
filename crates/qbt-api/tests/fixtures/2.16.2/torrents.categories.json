@@ -1,0 +1,22 @@
+{
+  "linux": {
+    "download_path": null,
+    "inactive_seeding_time_limit": -2,
+    "name": "linux",
+    "ratio_limit": -2,
+    "savePath": "",
+    "seeding_time_limit": -2,
+    "share_limit_action": "Default",
+    "share_limits_mode": "Default"
+  },
+  "tv": {
+    "download_path": null,
+    "inactive_seeding_time_limit": -2,
+    "name": "tv",
+    "ratio_limit": -2,
+    "savePath": "",
+    "seeding_time_limit": -2,
+    "share_limit_action": "Default",
+    "share_limits_mode": "Default"
+  }
+}

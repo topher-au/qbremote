@@ -1,0 +1,9 @@
+{
+  "bitness": 64,
+  "boost": "1.92.0",
+  "libtorrent": "2.1.3.0",
+  "openssl": "3.5.9",
+  "platform": "linux",
+  "qt": "6.11.1",
+  "zlib": "1.4"
+}

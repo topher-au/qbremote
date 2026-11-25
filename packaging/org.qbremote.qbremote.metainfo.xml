@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>org.qbremote.qbremote</id>
+  <name>qbremote</name>
+  <summary>Native remote client for qBittorrent's Web UI API</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <description>
+    <p>qbremote controls a remote qBittorrent instance (5.0 or newer) through its Web UI API. It has a
+       desktop-style transfer list, filters, properties panel, search, RSS and options, and never touches
+       torrent data on this computer.</p>
+    <p>It is an independent project and is not affiliated with the qBittorrent project.</p>
+  </description>
+  <launchable type="desktop-id">org.qbremote.qbremote.desktop</launchable>
+  <provides><binary>qbremote</binary></provides>
+  <content_rating type="oars-1.1"/>
+  <releases><release version="0.1.0" date="2026-11-25"/></releases>
+</component>

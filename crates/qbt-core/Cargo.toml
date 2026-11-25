@@ -1,0 +1,22 @@
+[package]
+name = "qbt-core"
+edition.workspace = true
+license.workspace = true
+publish.workspace = true
+version.workspace = true
+
+[dependencies]
+directories = "6.0.0"
+keyring = "4.2.0"
+qbt-api = { version = "0.1.0", path = "../qbt-api" }
+qbt-sync = { version = "0.1.0", path = "../qbt-sync" }
+serde = { version = "1.0.229", features = ["derive"] }
+serde_json = "1.0.154"
+thiserror = "2.0.21"
+tokio = { version = "1.54.1", features = ["rt-multi-thread", "macros", "sync", "time"] }
+toml = "1.2.3"
+tracing = "0.1.44"
+
+[dev-dependencies]
+tempfile = "3.27.0"
+wiremock = "0.6.5"

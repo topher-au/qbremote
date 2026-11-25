@@ -1,0 +1,254 @@
+[
+  {
+    "id": 0,
+    "message": "qBittorrent v5.1.4 started. Process ID: 7",
+    "timestamp": 1795610022,
+    "type": 1
+  },
+  {
+    "id": 1,
+    "message": "Using config directory: /config/qBittorrent/config",
+    "timestamp": 1795610022,
+    "type": 1
+  },
+  {
+    "id": 2,
+    "message": "Trying to listen on the following list of IP addresses: \"0.0.0.0:6881,[::]:6881\"",
+    "timestamp": 1795610022,
+    "type": 1
+  },
+  {
+    "id": 3,
+    "message": "Peer ID: \"-qB5140-\"",
+    "timestamp": 1795610022,
+    "type": 2
+  },
+  {
+    "id": 4,
+    "message": "HTTP User-Agent: \"qBittorrent/5.1.4\"",
+    "timestamp": 1795610022,
+    "type": 2
+  },
+  {
+    "id": 5,
+    "message": "Distributed Hash Table (DHT) support: ON",
+    "timestamp": 1795610022,
+    "type": 2
+  },
+  {
+    "id": 6,
+    "message": "Local Peer Discovery support: ON",
+    "timestamp": 1795610022,
+    "type": 2
+  },
+  {
+    "id": 7,
+    "message": "Peer Exchange (PeX) support: ON",
+    "timestamp": 1795610022,
+    "type": 2
+  },
+  {
+    "id": 8,
+    "message": "Anonymous mode: OFF",
+    "timestamp": 1795610022,
+    "type": 2
+  },
+  {
+    "id": 9,
+    "message": "Encryption support: ON",
+    "timestamp": 1795610022,
+    "type": 2
+  },
+  {
+    "id": 10,
+    "message": "UPnP/NAT-PMP support: ON",
+    "timestamp": 1795610022,
+    "type": 2
+  },
+  {
+    "id": 11,
+    "message": "Successfully listening on IP. IP: \"127.0.0.1\". Port: \"TCP/6881\"",
+    "timestamp": 1795610022,
+    "type": 2
+  },
+  {
+    "id": 12,
+    "message": "Successfully listening on IP. IP: \"127.0.0.1\". Port: \"UDP/6881\"",
+    "timestamp": 1795610022,
+    "type": 2
+  },
+  {
+    "id": 13,
+    "message": "Successfully listening on IP. IP: \"172.17.0.2\". Port: \"TCP/6881\"",
+    "timestamp": 1795610022,
+    "type": 2
+  },
+  {
+    "id": 14,
+    "message": "Successfully listening on IP. IP: \"172.17.0.2\". Port: \"UDP/6881\"",
+    "timestamp": 1795610022,
+    "type": 2
+  },
+  {
+    "id": 15,
+    "message": "Successfully listening on IP. IP: \"::1\". Port: \"TCP/6881\"",
+    "timestamp": 1795610022,
+    "type": 2
+  },
+  {
+    "id": 16,
+    "message": "Successfully listening on IP. IP: \"::1\". Port: \"UDP/6881\"",
+    "timestamp": 1795610022,
+    "type": 2
+  },
+  {
+    "id": 17,
+    "message": "Couldn't load IP geolocation database. Reason: No such file or directory",
+    "timestamp": 1795610022,
+    "type": 4
+  },
+  {
+    "id": 18,
+    "message": "Using built-in WebUI.",
+    "timestamp": 1795610022,
+    "type": 1
+  },
+  {
+    "id": 19,
+    "message": "Couldn't load WebUI translation for selected locale (C).",
+    "timestamp": 1795610022,
+    "type": 4
+  },
+  {
+    "id": 20,
+    "message": "WebUI: Now listening on IP: *, port: 8080",
+    "timestamp": 1795610022,
+    "type": 1
+  },
+  {
+    "id": 21,
+    "message": "IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Nov 1 02:47:39 2026.",
+    "timestamp": 1795610022,
+    "type": 2
+  },
+  {
+    "id": 22,
+    "message": "Successfully updated IP geolocation database.",
+    "timestamp": 1795610022,
+    "type": 2
+  },
+  {
+    "id": 23,
+    "message": "Detected external IP. IP: \"144.48.164.141\"",
+    "timestamp": 1795610022,
+    "type": 2
+  },
+  {
+    "id": 24,
+    "message": "WebAPI login success. IP: ::ffff:172.17.0.1",
+    "timestamp": 1795610022,
+    "type": 1
+  },
+  {
+    "id": 25,
+    "message": "WebAPI login success. IP: ::ffff:172.17.0.1",
+    "timestamp": 1795610022,
+    "type": 1
+  },
+  {
+    "id": 26,
+    "message": "WebAPI login success. IP: ::ffff:172.17.0.1",
+    "timestamp": 1795610022,
+    "type": 1
+  },
+  {
+    "id": 27,
+    "message": "WebAPI login success. IP: ::ffff:172.17.0.1",
+    "timestamp": 1795610022,
+    "type": 1
+  },
+  {
+    "id": 28,
+    "message": "WebAPI login success. IP: ::ffff:172.17.0.1",
+    "timestamp": 1795610023,
+    "type": 1
+  },
+  {
+    "id": 29,
+    "message": "Added new torrent. Torrent: \"contract-seed-0\"",
+    "timestamp": 1795610023,
+    "type": 1
+  },
+  {
+    "id": 30,
+    "message": "Detected an attempt to add a duplicate torrent. Source: magnet:?xt=urn:btih:00000000000000000000000000000000c0ffee00&dn=contract-seed-0. Existing torrent: contract-seed-0. Result: Merging of trackers is disabled",
+    "timestamp": 1795610023,
+    "type": 1
+  },
+  {
+    "id": 31,
+    "message": "Detected an attempt to add a duplicate torrent. Source: magnet:?xt=urn:btih:00000000000000000000000000000000c0ffee00&dn=contract-seed-0. Existing torrent: contract-seed-0. Result: Merging of trackers is disabled",
+    "timestamp": 1795610023,
+    "type": 1
+  },
+  {
+    "id": 32,
+    "message": "Added new torrent. Torrent: \"contract-seed-1\"",
+    "timestamp": 1795610023,
+    "type": 1
+  },
+  {
+    "id": 33,
+    "message": "IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Nov 1 02:47:39 2026.",
+    "timestamp": 1795610023,
+    "type": 2
+  },
+  {
+    "id": 34,
+    "message": "Detected an attempt to add a duplicate torrent. Source: magnet:?xt=urn:btih:00000000000000000000000000000000c0ffee01&dn=contract-seed-1. Existing torrent: contract-seed-1. Result: Merging of trackers is disabled",
+    "timestamp": 1795610023,
+    "type": 1
+  },
+  {
+    "id": 35,
+    "message": "Added new torrent. Torrent: \"contract-seed-2\"",
+    "timestamp": 1795610023,
+    "type": 1
+  },
+  {
+    "id": 36,
+    "message": "Detected an attempt to add a duplicate torrent. Source: magnet:?xt=urn:btih:00000000000000000000000000000000c0ffee02&dn=contract-seed-2. Existing torrent: contract-seed-2. Result: Merging of trackers is disabled",
+    "timestamp": 1795610023,
+    "type": 1
+  },
+  {
+    "id": 37,
+    "message": "Detected an attempt to add a duplicate torrent. Source: magnet:?xt=urn:btih:00000000000000000000000000000000c0ffee01&dn=contract-seed-1. Existing torrent: contract-seed-1. Result: Merging of trackers is disabled",
+    "timestamp": 1795610023,
+    "type": 1
+  },
+  {
+    "id": 38,
+    "message": "Detected an attempt to add a duplicate torrent. Source: magnet:?xt=urn:btih:00000000000000000000000000000000c0ffee02&dn=contract-seed-2. Existing torrent: contract-seed-2. Result: Merging of trackers is disabled",
+    "timestamp": 1795610023,
+    "type": 1
+  },
+  {
+    "id": 39,
+    "message": "Found Python executable. Name: \"python3\". Version: \"3.12.12\"",
+    "timestamp": 1795610025,
+    "type": 2
+  },
+  {
+    "id": 40,
+    "message": "WebAPI login success. IP: ::ffff:172.17.0.1",
+    "timestamp": 1795610027,
+    "type": 1
+  },
+  {
+    "id": 41,
+    "message": "WebAPI login success. IP: ::ffff:172.17.0.1",
+    "timestamp": 1795610030,
+    "type": 1
+  }
+]

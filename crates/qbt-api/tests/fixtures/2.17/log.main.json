@@ -1,0 +1,626 @@
+[
+  {
+    "id": 0,
+    "message": "Load Qt translation successful. Locale: en_AU.",
+    "timestamp": 1795635422,
+    "type": 1
+  },
+  {
+    "id": 1,
+    "message": "Load qBittorrent translation successful. Locale: en_AU.",
+    "timestamp": 1795635422,
+    "type": 1
+  },
+  {
+    "id": 2,
+    "message": "qBittorrent v5.4.0alpha1 started. Process ID: 1568063",
+    "timestamp": 1795635422,
+    "type": 1
+  },
+  {
+    "id": 3,
+    "message": "Using config directory: /tmp/claude-1000/-home-user-Projects-qbittorrent-client/84d506fd-2f42-4767-9715-6a626dd164a7/scratchpad/qbprof/qBittorrent/config",
+    "timestamp": 1795635422,
+    "type": 1
+  },
+  {
+    "id": 4,
+    "message": "Trying to listen on the following list of IP addresses: \"0.0.0.0:55434,[::]:55434\"",
+    "timestamp": 1795635422,
+    "type": 1
+  },
+  {
+    "id": 5,
+    "message": "Peer ID: \"-qB5400-\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 6,
+    "message": "HTTP User-Agent: \"qBittorrent/5.4.0alpha1\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 7,
+    "message": "Distributed Hash Table (DHT) support: ON",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 8,
+    "message": "Local Peer Discovery support: ON",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 9,
+    "message": "Peer Exchange (PeX) support: ON",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 10,
+    "message": "Anonymous mode: OFF",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 11,
+    "message": "Encryption support: ON",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 12,
+    "message": "UPnP/NAT-PMP support: ON",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 13,
+    "message": "Using built-in WebUI.",
+    "timestamp": 1795635422,
+    "type": 1
+  },
+  {
+    "id": 14,
+    "message": "WebUI translation for selected locale (en_AU) has been successfully loaded.",
+    "timestamp": 1795635422,
+    "type": 1
+  },
+  {
+    "id": 15,
+    "message": "WebUI: Now listening on IP: *, port: 28765",
+    "timestamp": 1795635422,
+    "type": 1
+  },
+  {
+    "id": 16,
+    "message": "Successfully listening on IP. IP: \"127.0.0.1\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 17,
+    "message": "Successfully listening on IP. IP: \"127.0.0.1\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 18,
+    "message": "Successfully listening on IP. IP: \"10.0.0.96\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 19,
+    "message": "Successfully listening on IP. IP: \"10.0.0.96\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 20,
+    "message": "Successfully listening on IP. IP: \"172.17.0.1\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 21,
+    "message": "Successfully listening on IP. IP: \"172.17.0.1\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 22,
+    "message": "Successfully listening on IP. IP: \"172.20.0.1\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 23,
+    "message": "Successfully listening on IP. IP: \"172.20.0.1\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 24,
+    "message": "Successfully listening on IP. IP: \"172.22.0.1\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 25,
+    "message": "Successfully listening on IP. IP: \"172.22.0.1\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 26,
+    "message": "Successfully listening on IP. IP: \"172.23.0.1\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 27,
+    "message": "Successfully listening on IP. IP: \"172.23.0.1\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 28,
+    "message": "Successfully listening on IP. IP: \"::1\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 29,
+    "message": "Successfully listening on IP. IP: \"::1\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 30,
+    "message": "Successfully listening on IP. IP: \"fe80::20cc:1cff:fe82:3931%docker0\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 31,
+    "message": "Successfully listening on IP. IP: \"fe80::20cc:1cff:fe82:3931%docker0\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 32,
+    "message": "Successfully listening on IP. IP: \"fe80::6469:67ff:fefd:37bc%br-64114885a38b\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 33,
+    "message": "Successfully listening on IP. IP: \"fe80::6469:67ff:fefd:37bc%br-64114885a38b\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 34,
+    "message": "Successfully listening on IP. IP: \"fe80::f416:83ff:fea6:d188%veth61760cb\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 35,
+    "message": "Successfully listening on IP. IP: \"fe80::f416:83ff:fea6:d188%veth61760cb\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 36,
+    "message": "Successfully listening on IP. IP: \"fe80::8ced:22ff:feed:5aa0%veth2c38ab2\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 37,
+    "message": "Successfully listening on IP. IP: \"fe80::8ced:22ff:feed:5aa0%veth2c38ab2\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 38,
+    "message": "Successfully listening on IP. IP: \"fe80::3060:97ff:fe6e:3294%veth2bf2702\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 39,
+    "message": "Successfully listening on IP. IP: \"fe80::3060:97ff:fe6e:3294%veth2bf2702\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 40,
+    "message": "Successfully listening on IP. IP: \"fe80::ac96:a5ff:fea0:4d7d%veth13c40fe\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 41,
+    "message": "Successfully listening on IP. IP: \"fe80::ac96:a5ff:fea0:4d7d%veth13c40fe\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 42,
+    "message": "Successfully listening on IP. IP: \"fe80::3446:5fff:fed5:80a8%vethed7b5ed\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 43,
+    "message": "Successfully listening on IP. IP: \"fe80::3446:5fff:fed5:80a8%vethed7b5ed\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 44,
+    "message": "Successfully listening on IP. IP: \"fe80::60d0:ecff:fe29:27cb%vetha71f9c5\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 45,
+    "message": "Successfully listening on IP. IP: \"fe80::60d0:ecff:fe29:27cb%vetha71f9c5\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 46,
+    "message": "Successfully listening on IP. IP: \"fe80::5447:faff:fed4:803b%vetheb45880\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 47,
+    "message": "Successfully listening on IP. IP: \"fe80::5447:faff:fed4:803b%vetheb45880\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 48,
+    "message": "Successfully listening on IP. IP: \"fe80::e057:f2ff:fe62:730d%br-0e8b4db7b4a8\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 49,
+    "message": "Successfully listening on IP. IP: \"fe80::e057:f2ff:fe62:730d%br-0e8b4db7b4a8\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 50,
+    "message": "Successfully listening on IP. IP: \"fe80::282e:84ff:fe06:69c1%br-aff9513a991a\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 51,
+    "message": "Successfully listening on IP. IP: \"fe80::282e:84ff:fe06:69c1%br-aff9513a991a\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 52,
+    "message": "Successfully listening on IP. IP: \"fe80::8880:f9ff:fe9a:61ea%vethdaa8a4c\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 53,
+    "message": "Successfully listening on IP. IP: \"fe80::8880:f9ff:fe9a:61ea%vethdaa8a4c\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 54,
+    "message": "Successfully listening on IP. IP: \"fe80::2cc4:4fff:fefc:c84c%vethb83e1bf\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 55,
+    "message": "Successfully listening on IP. IP: \"fe80::2cc4:4fff:fefc:c84c%vethb83e1bf\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 56,
+    "message": "Successfully listening on IP. IP: \"fe80::34e5:12ff:fe67:5e1a%veth54fa239\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 57,
+    "message": "Successfully listening on IP. IP: \"fe80::34e5:12ff:fe67:5e1a%veth54fa239\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 58,
+    "message": "Successfully listening on IP. IP: \"fe80::20c5:b2ff:feb0:97a0%vethc2f5913\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 59,
+    "message": "Successfully listening on IP. IP: \"fe80::20c5:b2ff:feb0:97a0%vethc2f5913\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 60,
+    "message": "Successfully listening on IP. IP: \"fe80::88e0:9eff:fe1c:6cab%veth0d98dab\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 61,
+    "message": "Successfully listening on IP. IP: \"fe80::88e0:9eff:fe1c:6cab%veth0d98dab\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 62,
+    "message": "Successfully listening on IP. IP: \"fe80::fc14:10ff:fe5b:4367%veth6861fb8\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 63,
+    "message": "Successfully listening on IP. IP: \"fe80::fc14:10ff:fe5b:4367%veth6861fb8\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 64,
+    "message": "Successfully listening on IP. IP: \"fe80::54d2:bdff:feba:58ea%veth20546a6\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 65,
+    "message": "Successfully listening on IP. IP: \"fe80::54d2:bdff:feba:58ea%veth20546a6\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 66,
+    "message": "Successfully listening on IP. IP: \"fe80::c829:25ff:fea3:66d3%vethe03f0be\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 67,
+    "message": "Successfully listening on IP. IP: \"fe80::c829:25ff:fea3:66d3%vethe03f0be\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 68,
+    "message": "Successfully listening on IP. IP: \"fe80::5cc1:48ff:feca:e484%veth0c2d9b3\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 69,
+    "message": "Successfully listening on IP. IP: \"fe80::5cc1:48ff:feca:e484%veth0c2d9b3\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 70,
+    "message": "Successfully listening on IP. IP: \"fe80::84d6:69ff:fea9:2fc4%vethf4f949b\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 71,
+    "message": "Successfully listening on IP. IP: \"fe80::84d6:69ff:fea9:2fc4%vethf4f949b\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 72,
+    "message": "Successfully listening on IP. IP: \"fe80::583e:46ff:fe0c:31f8%veth41a3f23\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 73,
+    "message": "Successfully listening on IP. IP: \"fe80::583e:46ff:fe0c:31f8%veth41a3f23\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 74,
+    "message": "Successfully listening on IP. IP: \"fe80::c4cf:5cff:fe88:f641%veth409e763\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 75,
+    "message": "Successfully listening on IP. IP: \"fe80::c4cf:5cff:fe88:f641%veth409e763\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 76,
+    "message": "Successfully listening on IP. IP: \"fe80::108e:bff:fefe:9bee%vethfa9a0fe\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 77,
+    "message": "Successfully listening on IP. IP: \"fe80::108e:bff:fefe:9bee%vethfa9a0fe\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 78,
+    "message": "Successfully listening on IP. IP: \"fe80::a8a9:16ff:fec5:9749%vethc3cf4cd\". Port: \"TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 79,
+    "message": "Successfully listening on IP. IP: \"fe80::a8a9:16ff:fec5:9749%vethc3cf4cd\". Port: \"UTP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 80,
+    "message": "Detected external IP. IP: \"144.48.164.141\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 81,
+    "message": "Port forwarding succeeded. Protocol: UPnP. Local address: \"10.0.0.96\". External port: 55434. Message: \"successfully mapped port using UPnP. local: 10.0.0.96 external port: TCP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 82,
+    "message": "Port forwarding succeeded. Protocol: UPnP. Local address: \"10.0.0.96\". External port: 55434. Message: \"successfully mapped port using UPnP. local: 10.0.0.96 external port: UDP/55434\"",
+    "timestamp": 1795635422,
+    "type": 2
+  },
+  {
+    "id": 83,
+    "message": "WebAPI login success. IP: ::ffff:127.0.0.1",
+    "timestamp": 1795635430,
+    "type": 1
+  },
+  {
+    "id": 84,
+    "message": "WebAPI login success. IP: ::ffff:127.0.0.1",
+    "timestamp": 1795635436,
+    "type": 1
+  },
+  {
+    "id": 85,
+    "message": "WebAPI login success. IP: ::ffff:127.0.0.1",
+    "timestamp": 1795635436,
+    "type": 1
+  },
+  {
+    "id": 86,
+    "message": "WebAPI login success. IP: ::ffff:127.0.0.1",
+    "timestamp": 1795635436,
+    "type": 1
+  },
+  {
+    "id": 87,
+    "message": "WebAPI login success. IP: ::ffff:127.0.0.1",
+    "timestamp": 1795635436,
+    "type": 1
+  },
+  {
+    "id": 88,
+    "message": "WebAPI login success. IP: ::ffff:127.0.0.1",
+    "timestamp": 1795635436,
+    "type": 1
+  },
+  {
+    "id": 89,
+    "message": "Couldn't load IP geolocation database. Reason: File open error. File: \"/tmp/claude-1000/-home-user-Projects-qbittorrent-client/84d506fd-2f42-4767-9715-6a626dd164a7/scratchpad/qbprof/qBittorrent/data/GeoDB/dbip-country-lite.mmdb\". Error: \"No such file or directory\"",
+    "timestamp": 1795635436,
+    "type": 4
+  },
+  {
+    "id": 90,
+    "message": "Added new torrent. Torrent: \"contract-seed-0\"",
+    "timestamp": 1795635436,
+    "type": 1
+  },
+  {
+    "id": 91,
+    "message": "Detected an attempt to add a duplicate torrent. Existing torrent: \"contract-seed-0\". Torrent infohash: 00000000000000000000000000000000c0ffee00. Result: failed to add torrent \"contract-seed-0\": [libtorrent] torrent already exists in session",
+    "timestamp": 1795635436,
+    "type": 1
+  },
+  {
+    "id": 92,
+    "message": "Detected an attempt to add a duplicate torrent. Existing torrent: \"contract-seed-0\". Torrent infohash: 00000000000000000000000000000000c0ffee00. Result: failed to add torrent \"contract-seed-0\": [libtorrent] torrent already exists in session",
+    "timestamp": 1795635436,
+    "type": 1
+  },
+  {
+    "id": 93,
+    "message": "Added new torrent. Torrent: \"contract-seed-1\"",
+    "timestamp": 1795635436,
+    "type": 1
+  },
+  {
+    "id": 94,
+    "message": "Detected an attempt to add a duplicate torrent. Existing torrent: \"contract-seed-1\". Torrent infohash: 00000000000000000000000000000000c0ffee01. Result: failed to add torrent \"contract-seed-1\": [libtorrent] torrent already exists in session",
+    "timestamp": 1795635436,
+    "type": 1
+  },
+  {
+    "id": 95,
+    "message": "Detected an attempt to add a duplicate torrent. Source: magnet:?xt=urn:btih:00000000000000000000000000000000c0ffee01&dn=contract-seed-1. Existing torrent: \"contract-seed-1\". Torrent infohash: 00000000000000000000000000000000c0ffee01. Result: Merging of trackers is disabled",
+    "timestamp": 1795635436,
+    "type": 1
+  },
+  {
+    "id": 96,
+    "message": "Added new torrent. Torrent: \"contract-seed-2\"",
+    "timestamp": 1795635436,
+    "type": 1
+  },
+  {
+    "id": 97,
+    "message": "Detected an attempt to add a duplicate torrent. Existing torrent: \"contract-seed-2\". Torrent infohash: 00000000000000000000000000000000c0ffee02. Result: failed to add torrent \"contract-seed-2\": [libtorrent] torrent already exists in session",
+    "timestamp": 1795635436,
+    "type": 1
+  },
+  {
+    "id": 98,
+    "message": "Detected an attempt to add a duplicate torrent. Source: magnet:?xt=urn:btih:00000000000000000000000000000000c0ffee02&dn=contract-seed-2. Existing torrent: \"contract-seed-2\". Torrent infohash: 00000000000000000000000000000000c0ffee02. Result: Merging of trackers is disabled",
+    "timestamp": 1795635436,
+    "type": 1
+  },
+  {
+    "id": 99,
+    "message": "IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Nov 1 13:47:39 2026.",
+    "timestamp": 1795635437,
+    "type": 2
+  },
+  {
+    "id": 100,
+    "message": "Successfully updated IP geolocation database.",
+    "timestamp": 1795635437,
+    "type": 2
+  },
+  {
+    "id": 101,
+    "message": "Found Python executable. Name: \"python3\". Version: \"3.14.10\"",
+    "timestamp": 1795635438,
+    "type": 2
+  },
+  {
+    "id": 102,
+    "message": "WebAPI login success. IP: ::ffff:127.0.0.1",
+    "timestamp": 1795635461,
+    "type": 1
+  },
+  {
+    "id": 103,
+    "message": "WebAPI login success. IP: ::ffff:127.0.0.1",
+    "timestamp": 1795635464,
+    "type": 1
+  }
+]

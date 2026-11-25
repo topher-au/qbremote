@@ -1,0 +1,10 @@
+{
+  "linux": {
+    "name": "linux",
+    "savePath": ""
+  },
+  "tv": {
+    "name": "tv",
+    "savePath": ""
+  }
+}

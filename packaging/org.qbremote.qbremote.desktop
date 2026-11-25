@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=qbremote
+GenericName=Remote torrent client
+Comment=Native client for a remote qBittorrent Web UI
+Exec=qbremote %u
+Icon=org.qbremote.qbremote
+Terminal=false
+Categories=Network;FileTransfer;P2P;Qt;
+MimeType=x-scheme-handler/magnet;application/x-bittorrent;
+Keywords=torrent;qbittorrent;remote;
